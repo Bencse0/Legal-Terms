@@ -5,6 +5,7 @@ Terms of Service for [Your Roblox Game Name Here]
 Effective Date: July 3, 2025
 
 PLEASE READ THESE TERMS OF SERVICE CAREFULLY BEFORE USING [YOUR ROBLOX GAME NAME HERE].
+
 These Terms of Service ("Terms") constitute a legally binding agreement between you ("User" or "you"), the individual or entity accessing or using [Your Roblox Game Name Here] (the "Game"), and [Your Studio/Developer Name, if applicable, otherwise "The Game Development Team"] ("We," "Us," or "Our"). By accessing, playing, or otherwise utilizing the Game, you acknowledge that you have read, understood, and agree to be bound by these Terms, in conjunction with the Roblox Terms of Use and Roblox Community Standards, which are hereby incorporated by reference. If you do not agree to these Terms, or if you are not of legal age to form a binding contract in your jurisdiction (or have not obtained parental/guardian consent), you may not access or use the Game.
 1. Definitions
  * Game: Refers to the interactive virtual experience known as "[Your Roblox Game Name Here]" available on the Roblox platform, including all associated features, content, virtual items, and services.
