@@ -15,15 +15,17 @@ This Privacy Policy applies to information we collect:
 This policy does not apply to:
  * Information collected by Roblox Corporation directly for their platform services. Please refer to the Roblox Privacy Policy for details on their data practices.
  * Information collected by any third-party website or service that you may access through the Games (e.g., links to external websites), unless explicitly stated otherwise. We encourage you to review the privacy policies of those third parties.
-2. Information We Collect and How We Collect It
+### 2. Information We Collect and How We Collect It
 
 The type of information we collect largely depends on your interaction with our Games and the functionalities we implement. Because we operate within Roblox, direct collection of personally identifiable information (PII) is limited.
-2.1. Information Provided Directly by You
+
+### 2.1. Information Provided Directly by You
 While playing our Games, you may provide information directly to us through in-game interactions:
  * In-Game Communications: Content of your chat messages, public or private, within our Games. This includes text, emojis, and any data conveyed through Roblox's chat system.
  * Feedback and Support Communications: If you submit bug reports, suggestions, appeals, or other inquiries to us via in-game forms, direct messages on Roblox, or any designated Kinetix Studio support channels (e.g., official Discord server, if applicable). This may include your Roblox username, the content of your message, and any attached screenshots or logs.
  * Voluntary Participation Data: Information you provide if you choose to participate in optional in-game surveys, contests, or events specific to our Games. This could include preferences, opinions, or specific identifiers you choose to share for prize distribution (e.g., a specific Roblox User ID).
-2.2. Information Collected Automatically Through Game Play
+
+### 2.2. Information Collected Automatically Through Game Play
 When you access and play our Games, certain information is collected automatically through Roblox's API and our in-game systems. While much of this is handled by Roblox, we may access or process aggregated or anonymized versions of this data, or specific elements directly relevant to game mechanics:
  * Roblox User ID (UserID): Your unique identifier assigned by Roblox. This is fundamental for tracking in-game progress, purchases, and linking your actions to your Roblox account. We do NOT collect your Roblox username directly, only the UserID, which Roblox links to your username.
  * In-Game Progress and Activity Data: Information about your gameplay, including:
@@ -37,7 +39,8 @@ When you access and play our Games, certain information is collected automatical
  * Analytics Data: Information about how you interact with our Games, such as features used, paths taken through the game, and frequency of use. This is primarily gathered through Roblox's analytics services or potentially through integrated Roblox-compatible analytics tools. We use this data to understand player behavior and improve game design.
  * Error and Crash Data: Reports related to game crashes, bugs, and errors encountered during gameplay. This information helps us identify and fix technical issues.
  * IP Address (Indirect): We do not directly collect or store your IP address. However, Roblox does, and certain aggregated or anonymized analytics data we receive may be derived from geographical information associated with IP addresses at Roblox's level.
-2.3. Information from Third Parties
+
+### 2.3. Information from Third Parties
  * Roblox Platform Data: We receive certain data about your Roblox account and in-game activities through Roblox's developer tools and APIs. This primarily includes your UserID, purchase history within our Games, and potentially aggregated player statistics. This information is provided to us by Roblox in accordance with their terms.
  * Third-Party Analytics Providers (via Roblox): If we integrate third-party analytics services that are compliant with Roblox's policies, they may collect data directly from the Games environment, which we then access in an aggregated or anonymized form.
 3. How We Use the Information We Collect
