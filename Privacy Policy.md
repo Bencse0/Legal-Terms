@@ -128,7 +128,8 @@ We encourage you to review this Privacy Policy periodically to stay informed abo
 
 If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us through the following official channels:
 Kinetix Studio
-Email: privacy@kinetixstudio.com (Please note: this is an example email address; replace with your actual support email)
+Email: privacy@kinetixstudio.com
+
 Roblox Group Page: https://www.roblox.com/share/g/33870482
 
 When contacting us, please include your Roblox UserID and clearly state the nature of your inquiry to help us process your request efficiently.
