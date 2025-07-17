@@ -1,100 +1,89 @@
-# Terms of Service
+# Terms of Service for Kinetix Studio
 
-Terms of Service for [Your Roblox Game Name Here]
-
-Effective Date: July 3, 2025
-
-PLEASE READ THESE TERMS OF SERVICE CAREFULLY BEFORE USING [YOUR ROBLOX GAME NAME HERE].
-
-These Terms of Service ("Terms") constitute a legally binding agreement between you ("User" or "you"), the individual or entity accessing or using [Your Roblox Game Name Here] (the "Game"), and [Your Studio/Developer Name, if applicable, otherwise "The Game Development Team"] ("We," "Us," or "Our"). By accessing, playing, or otherwise utilizing the Game, you acknowledge that you have read, understood, and agree to be bound by these Terms, in conjunction with the Roblox Terms of Use and Roblox Community Standards, which are hereby incorporated by reference. If you do not agree to these Terms, or if you are not of legal age to form a binding contract in your jurisdiction (or have not obtained parental/guardian consent), you may not access or use the Game.
-1. Definitions
- * Game: Refers to the interactive virtual experience known as "[Your Roblox Game Name Here]" available on the Roblox platform, including all associated features, content, virtual items, and services.
- * Roblox Platform: The online gaming platform operated by Roblox Corporation on which the Game is hosted and accessible.
- * User/You: Any individual or entity that accesses, uses, or interacts with the Game.
- * Virtual Items: Any digital, intangible goods, currencies, or benefits obtained within the Game, including but not limited to game passes, developer products, in-game currency (e.g., coins, gems), cosmetic items, and upgrades.
- * User-Generated Content (UGC): Any content, data, or materials created, uploaded, submitted, or transmitted by Users within or through the Game, including but not limited to text, images, models, designs, sounds, and interactive elements.
- * Service: Encompasses the provision of the Game, its features, and any related support or functionalities.
-2. Acceptance and Modifications to Terms
-2.1. Acceptance: Your access to and use of the Game is conditioned upon your acceptance of and compliance with these Terms. These Terms apply to all visitors, users, and others who access or use the Service.
-2.2. Modifications: We reserve the sole right, at our discretion, to modify, amend, or replace these Terms at any time. When we make material changes, we will update the "Effective Date" at the top of this document. We encourage you to review these Terms periodically for changes. Your continued access or use of the Game following the posting of any changes to these Terms constitutes your acceptance of those changes. If you do not agree to the new Terms, you are no longer authorized to use the Game.
-3. Eligibility and Account Responsibility
-3.1. Eligibility: By using the Game, you represent and warrant that you are (i) at least 13 years of age or the age of digital consent in your jurisdiction, or (ii) if under 13, you have obtained verifiable parental or guardian consent to use the Roblox platform and our Game, and your parent or guardian agrees to be bound by these Terms.
-3.2. Account Security: You are solely responsible for maintaining the confidentiality of your Roblox account credentials. You are responsible for all activities that occur under your Roblox account while interacting with the Game, whether or not you have authorized such activities. You agree to notify us immediately of any unauthorized use of your account or any other breach of security. We cannot and will not be liable for any loss or damage arising from your failure to comply with this security obligation.
-4. License to Use the Game
-4.1. Limited License: Subject to your compliance with these Terms and the Roblox Terms of Use, we grant you a limited, non-exclusive, non-transferable, non-sublicensable, revocable license to access and use the Game for your personal, non-commercial entertainment purposes.
-4.2. Restrictions: This license does not include any right to:
-* (a) Sublicense, lease, rent, or otherwise transfer the Game or any of its components to any third party.
-* (b) Reproduce, distribute, publicly display, or perform the Game or any part thereof, except as expressly permitted by these Terms or the Roblox platform.
-* (c) Modify, adapt, translate, reverse engineer, decompile, disassemble, or create derivative works from the Game or any part thereof.
-* (d) Use the Game for any commercial purpose without our express prior written consent.
-* (e) Remove, alter, or obscure any copyright, trademark, or other proprietary rights notices from the Game.
-5. Rules of Conduct and Prohibited Activities
-Your use of the Game must comply with these Terms, the Roblox Terms of Use, and the Roblox Community Standards. The following activities are strictly prohibited:
-5.1. Cheating and Exploitation:
-* Using, developing, or distributing unauthorized automated software programs, "bots," "macros," "cheats," "hacks," "mods," or any other malicious programs or applications designed to modify or interfere with the Game's intended operation, provide an unfair advantage, or disrupt the experience for other users.
-* Exploiting any bugs, glitches, or unintended functionalities within the Game for personal gain, to disrupt gameplay, or to circumvent game mechanics.
-* Engaging in "win trading," "boosting," or any other coordinated activity designed to unfairly manipulate rankings, statistics, or rewards.
-5.2. Harassment and Offensive Conduct:
-* Engaging in any form of harassment, bullying, stalking, threats, or hate speech directed at other Users, our development team, or Roblox staff.
-* Using racist, sexist, homophobic, transphobic, or any other discriminatory language or content.
-* Posting or transmitting any content that is obscene, vulgar, pornographic, sexually explicit, defamatory, libelous, or otherwise objectionable.
-* Impersonating any other User, our staff, Roblox staff, or any other individual or entity.
-5.3. Data and Security:
-* Attempting to gain unauthorized access to the Game's backend systems, servers, or any data not intended for public access.
-* Collecting or attempting to collect personal information about other Users (e.g., real names, addresses, phone numbers) without their explicit consent and in violation of applicable privacy laws.
-* Distributing viruses, malware, or any other harmful code.
-* "Doxing" or revealing private information about other Users.
-5.4. Commercial and Promotional Activity:
-* Advertising, soliciting, or promoting any products, services, or websites outside of the Game without our explicit prior written consent. This includes "scamming" or attempting to lure users off the Roblox platform.
-* Engaging in any form of real-money trading (RMT) of Virtual Items or Roblox accounts.
-5.5. Content Violations (UGC):
-* Uploading, transmitting, or otherwise making available any UGC that infringes upon the intellectual property rights (e.g., copyright, trademark) of others.
-* Creating UGC that violates these Terms, Roblox Community Standards, or applicable laws.
-5.6. Other Prohibited Acts:
-* Disrupting the normal flow of chat or gameplay (e.g., spamming, excessive use of all caps).
-* Abusing reporting mechanisms or submitting false reports.
-* Any other activity deemed by us, in our sole discretion, to be inconsistent with the spirit and intended use of the Game or the Roblox platform.
-6. Virtual Items and In-Game Purchases
-6.1. Nature of Virtual Items: All Virtual Items available within the Game are provided on a limited license basis. They are not real currency, do not have any equivalent real-world value, and cannot be exchanged for real currency or real goods or services. The acquisition of Virtual Items only grants you a limited, non-transferable, non-sublicensable, revocable license to use such Virtual Items within the Game, subject to these Terms and the Roblox Terms of Use.
-6.2. Purchases: All purchases of Virtual Items are facilitated through the Roblox platform and are subject to Roblox's payment processing and refund policies. We do not process or store any payment information. All sales of Virtual Items are final, non-refundable, and non-exchangeable, except as required by applicable law or Roblox's specific refund policies.
-6.3. Revocation and Modification: We reserve the right, at our sole discretion, to manage, regulate, control, modify, or eliminate Virtual Items at any time, with or without notice. This includes, but is not limited to, adjusting their value, availability, features, or outright removal. We shall have no liability to you or any third party in the event that we exercise such rights. Virtual Items may be forfeited if your account is terminated for a violation of these Terms.
-7. User-Generated Content (UGC)
-7.1. Responsibility for UGC: You are solely responsible for any UGC you create, upload, submit, or transmit while using the Game. You affirm that you own or have the necessary licenses, rights, consents, and permissions to publish and exploit such UGC.
-7.2. License to Us: By submitting UGC to or through the Game, you hereby grant us (and Roblox, as applicable) a non-exclusive, worldwide, royalty-free, perpetual, irrevocable, sublicensable, and transferable license to use, reproduce, distribute, prepare derivative works of, display, and perform your UGC in connection with the operation, promotion, and development of the Game and the Roblox platform.
-7.3. Moderation: We reserve the right, but are not obligated, to monitor, review, remove, or modify any UGC that we, in our sole discretion, deem to be in violation of these Terms, the Roblox Community Standards, or any applicable laws.
-8. Intellectual Property Rights
-8.1. Our IP: The Game, including all its original content, features, and functionality (excluding UGC), such as graphics, design, compilation, information, computer code, products, software, and all other elements of the Game, are and will remain the exclusive property of [Your Studio/Developer Name] and its licensors. The Game is protected by copyright, trademark, and other laws of both the [Your Jurisdiction, e.g., United States] and foreign countries. Our trademarks and trade dress may not be used in connection with any product or service without our prior written consent.
-8.2. Third-Party IP: You acknowledge that the Game operates on the Roblox platform, and as such, is subject to Roblox's intellectual property policies. You agree not to use any third-party intellectual property within the Game without proper authorization.
-9. Disclaimers and Limitations of Liability
-9.1. "AS IS" Basis: THE GAME IS PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS. WE MAKE NO WARRANTIES, EXPRESS OR IMPLIED, REGARDING THE GAME OR YOUR USE THEREOF. WITHOUT LIMITING THE FOREGOING, WE SPECIFICALLY DISCLAIM ANY AND ALL WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, ACCURACY, RELIABILITY, OR THAT THE GAME WILL BE UNINTERRUPTED, ERROR-FREE, SECURE, OR FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS. YOUR USE OF THE GAME IS SOLELY AT YOUR OWN RISK.
-9.2. Limitation of Liability: TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL [YOUR STUDIO/DEVELOPER NAME] (OR ITS AFFILIATES, OFFICERS, EMPLOYEES, AGENTS, PARTNERS, AND LICENSORS) BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, PUNITIVE, OR EXEMPLARY DAMAGES, INCLUDING BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA, OR OTHER INTANGIBLE LOSSES (EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES), RESULTING FROM:
-* (A) YOUR ACCESS TO OR USE OF OR INABILITY TO ACCESS OR USE THE GAME;
-* (B) ANY CONDUCT OR CONTENT OF ANY THIRD PARTY ON THE GAME;
-* (C) ANY CONTENT OBTAINED FROM THE GAME;
-* (D) UNAUTHORIZED ACCESS, USE, OR ALTERATION OF YOUR TRANSMISSIONS OR CONTENT, WHETHER BASED ON WARRANTY, CONTRACT, TORT (INCLUDING NEGLIGENCE), OR ANY OTHER LEGAL THEORY, WHETHER OR NOT WE HAVE BEEN INFORMED OF THE POSSIBILITY OF SUCH DAMAGE.
-9.3. Jurisdiction-Specific Limitations: Some jurisdictions do not allow the exclusion of certain warranties or the exclusion or limitation of liability for consequential or incidental damages, so the limitations above may not apply to you. In such jurisdictions, our liability will be limited to the fullest extent permitted by law.
-10. Indemnification
-You agree to defend, indemnify, and hold harmless [Your Studio/Developer Name], its affiliates, licensors, and their respective officers, directors, employees, contractors, agents, licensors, suppliers, successors, and assigns from and against any claims, liabilities, damages, judgments, awards, losses, costs, expenses, or fees (including reasonable attorneys' fees) arising out of or relating to:
-* (a) Your violation of these Terms.
-* (b) Your use of the Game.
-* (c) Your User-Generated Content.
-* (d) Your violation of any rights of another, including intellectual property rights.
-* (e) Your violation of any applicable law or regulation.
+Effective Date: July 17, 2025
+Kinetix Studio ("Kinetix," "we," "us," or "our") is pleased to provide you with access to our games on the Roblox platform, including "Hunt the Signal" and any other games developed and published by Kinetix Studio (collectively, the "Games"). These Terms of Service ("Terms") govern your access to and use of all Kinetix Studio Games. By accessing or using any of our Games, you agree to be bound by these Terms and any additional terms and policies referenced herein or provided by Roblox Corporation, including but not limited to the Roblox Terms of Use, Roblox Community Standards, and Roblox Privacy Policy (collectively, "Roblox Policies"). If you do not agree to these Terms, you may not access or use any Kinetix Studio Game.
+1. Acceptance of Terms
+1.1. Binding Agreement: By playing, interacting with, creating an account within (if applicable), or otherwise accessing any of our Games, you confirm that you have read, understood, and unequivocally agree to be bound by these Terms. Your continued use of any Kinetix Studio Game, or any of its features, after the Effective Date or any subsequent revisions, constitutes your ongoing and unequivocal acceptance of these Terms and any future modifications or revisions.
+1.2. Eligibility and Age Restrictions: The Games are available to users in accordance with Roblox Corporation's age requirements. If you are a minor (under the age of majority in your jurisdiction, typically 18 years old), you represent and warrant that your parent or legal guardian has thoroughly reviewed and explicitly agreed to these Terms on your behalf and has provided you with explicit permission to access and use the Games. Kinetix Studio reserves the right to request proof of age or parental consent at any time and may suspend or terminate access to the Games if such proof is not provided or is deemed insufficient.
+1.3. Supplemental Terms: Certain features, events, or specific Games within the Kinetix Studio portfolio may be subject to additional terms, conditions, or rules ("Supplemental Terms"). Such Supplemental Terms will be presented to you in connection with the relevant feature, event, or Game. By using those features, participating in those events, or playing those specific Games, you agree to be bound by the applicable Supplemental Terms, which are hereby incorporated by reference into these Terms. In the event of a conflict between these Terms and any Supplemental Terms, the Supplemental Terms shall prevail for the specific feature, event, or Game they govern.
+2. License to Use the Games
+2.1. Limited Grant of License: Kinetix Studio grants you a personal, non-exclusive, non-transferable, non-sublicensable, fully revocable, limited license to access and use the Games solely for your personal, non-commercial entertainment purposes. This license is granted strictly in accordance with these Terms and the prevailing Roblox Policies.
+2.2. Scope of License: This license permits you to:
+* Download and install necessary game files or assets provided directly by Kinetix Studio via the Roblox platform.
+* Access and play the Games on compatible devices through the official Roblox platform.
+* Utilize the features and functionalities of the Games as intended by Kinetix Studio.
+* Create and customize in-game avatars or profiles to the extent permitted by the specific Game's design.
+2.3. Roblox Platform Dependency: You acknowledge that this license is fundamentally granted within the framework of the Roblox platform. Your ability to access and use the Games is entirely dependent upon your compliance with all Roblox Policies, and any limitations or requirements imposed by Roblox Corporation regarding user-generated content, virtual items, and games. Kinetix Studio has no control over Roblox's platform operations, maintenance, or policies, and any disruption or termination of your access by Roblox may also affect your access to our Games.
+3. User Accounts and Security
+3.1. Roblox Account: To access our Games, you must have an active and valid Roblox account. You are solely responsible for maintaining the confidentiality of your Roblox account credentials (username and password) and for all activities that occur under your account.
+3.2. Account Security: You agree to notify Roblox Corporation immediately of any unauthorized use of your account or any other breach of security. Kinetix Studio will not be liable for any loss or damage arising from your failure to comply with this security obligation.
+3.3. No Account Transfer: You may not sell, transfer, or assign your Roblox account or any specific in-game assets, virtual items, or currency associated with your account in our Games to any third party. Any such attempt is null and void and may result in account termination.
+4. User Conduct and Responsibilities
+4.1. Strict Adherence to Policies: You agree to strictly adhere to all applicable laws, regulations, and particularly all Roblox Policies, including the Roblox Terms of Use and Community Standards, while using any Kinetix Studio Game. Any violation of these external policies will be deemed a direct violation of these Terms.
+4.2. Prohibited Activities (Expanded): You expressly agree that you will not, under any circumstances, engage in or facilitate any of the following activities within any Kinetix Studio Game:
+* Cheating and Exploitation: Utilizing, promoting, or distributing any unauthorized programs, scripts, bots, hacks, mods, exploits, or other third-party software designed to alter or interfere with the Games' intended functionality, provide unfair advantages, or manipulate game mechanics, progress, or leaderboards. This includes, but is not limited to, speed hacking, aim-botting, wall hacking, or glitch abuse.
+* Disruptive Behavior: Engaging in any activity that disrupts or interferes with the normal flow of gameplay, communication, or the overall user experience for other players. This includes excessive spamming of chat, flooding, "griefing," intentional lag creation, or any form of malicious interference.
+* Harassment and Abusive Conduct: Sending, posting, or otherwise disseminating any content or engaging in any behavior that is harassing, abusive, threatening, discriminatory (based on race, ethnicity, religion, gender, sexual orientation, disability, etc.), hateful, defamatory, obscene, vulgar, or otherwise objectionable to other players or Kinetix Studio staff. This includes cyberbullying and doxxing.
+* Impersonation: Impersonating any person or entity, including but not limited to Kinetix Studio staff, Roblox staff, or other players, or falsely stating or otherwise misrepresenting your affiliation with a person or entity.
+* Unauthorized Commercial Activity: Using the Games for any unauthorized commercial purposes, including but not limited to advertising, solicitations, promotions, or sales of goods or services, without the express prior written consent of Kinetix Studio.
+* Intellectual Property Infringement: Uploading, posting, transmitting, or otherwise making available any content that infringes any patent, trademark, trade secret, copyright, or other proprietary rights of any party.
+* Data Harvesting: Collecting or harvesting any personally identifiable information from other users of the Games without their express consent.
+* Malicious Software: Transmitting or uploading any material that contains viruses, corrupted data, worms, trojan horses, or any other malicious code or components designed to harm or disrupt the functionality of any computer, software, or hardware.
+* Unauthorized Access: Attempting to gain unauthorized access to any restricted areas of the Games, other players' accounts, servers, networks, or Roblox's systems.
+* Reverse Engineering: Decompiling, reverse engineering, disassembling, or otherwise attempting to derive the source code or underlying ideas or algorithms of any part of the Games, except to the extent expressly permitted by applicable law.
+* Illegal Activities: Engaging in or promoting any activity that is illegal under applicable local, national, or international laws.
+4.3. User-Generated Content (UGC): To the extent that any Kinetix Studio Game permits you to create, upload, post, or transmit any user-generated content (e.g., chat messages, in-game drawings, custom builds, or audio recordings – if applicable), you are solely and entirely responsible for such UGC. You represent and warrant that your UGC does not violate these Terms, Roblox Policies, or any third-party rights, including intellectual property and privacy rights. Kinetix Studio reserves the right, but not the obligation, to monitor, review, edit, or remove any UGC that, in its sole discretion, violates these Terms or Roblox Policies, at any time and without prior notice or liability. Kinetix Studio assumes no responsibility or liability for any UGC, or for any loss or damage resulting from UGC.
+5. Virtual Items and In-Game Purchases
+5.1. Robux as Currency: Kinetix Studio Games may offer various virtual items, game passes, cosmetic enhancements, and other digital content ("Virtual Items") for purchase or acquisition using Robux, Roblox's official virtual currency.
+5.2. Nature of Virtual Items: You understand and agree that Virtual Items are non-transferable, non-exchangeable outside the Games (unless expressly permitted by Kinetix Studio within specific game mechanics), and have no real-world monetary value. They do not constitute property and cannot be redeemed for real currency, goods, or services from Kinetix Studio or Roblox. Your right to use Virtual Items is a limited, personal, non-exclusive, non-transferable, non-sublicensable, revocable license, contingent upon your strict compliance with these Terms and all applicable Roblox Policies.
+5.3. No Refunds: All purchases of Virtual Items are final and non-refundable, except where explicitly required by applicable consumer protection laws or Roblox's official refund policy. Kinetix Studio will not provide refunds for any reason, including but not limited to, dissatisfaction with a Virtual Item, account suspension or termination due to a violation of these Terms, or changes to game content. Any refund requests must be directed to Roblox Corporation, subject to their policies.
+5.4. Modification and Discontinuation: Kinetix Studio reserves the absolute right, at its sole discretion, to modify, reduce, eliminate, discontinue, or alter the features, functionality, availability, or pricing of any Virtual Item at any time, without prior notice or liability to you. This includes, but is not limited to, changes in appearance, effects, or in-game utility. We may, for example, introduce new Virtual Items, retire old ones, or adjust the balance of existing Virtual Items.
+5.5. Risk of Loss: You acknowledge and accept that Kinetix Studio is not responsible for any loss or damage to your Virtual Items resulting from your actions (e.g., accidental deletion, gifting to the wrong player), account compromise (unless solely due to Kinetix Studio's gross negligence), or any technical issues not directly caused by Kinetix Studio.
+6. Intellectual Property
+6.1. Ownership of Games: All content, features, and functionality within Kinetix Studio Games, including but not limited to game design, mechanics, software, code, algorithms, user interfaces, visual elements (graphics, art, characters, animations), audio (music, sound effects), narrative elements, storylines, text, trademarks, service marks, logos, and any accompanying documentation, are the exclusive property of Kinetix Studio or its licensors. These assets are protected by copyright, trademark, patent, trade secret, and other intellectual property laws and treaties worldwide.
+6.2. Restrictions on Use: You may not copy, reproduce, distribute, modify, create derivative works of, publicly display, publicly perform, republish, download, store, transmit, or otherwise exploit any part of the Games without the express prior written permission of Kinetix Studio. This includes, but is not limited to, "ripping" game assets, unauthorized content creation, or running private servers.
+6.3. Feedback and Submissions: We highly value your feedback, suggestions, comments, bug reports, and ideas regarding the Games ("Feedback"). You acknowledge and agree that any Feedback you provide to Kinetix Studio (via any medium, including but not limited to Roblox messages, social media, or dedicated feedback channels) will be considered non-confidential and non-proprietary. You hereby grant Kinetix Studio a perpetual, irrevocable, worldwide, royalty-free, fully paid-up, transferable, and sublicensable license to use, reproduce, modify, distribute, display, perform, create derivative works of, and otherwise exploit your Feedback for any purpose, without any obligation of acknowledgment or compensation to you.
+7. Disclaimers and Limitation of Liability
+7.1. "AS IS" and "AS AVAILABLE" Basis: THE GAMES, INCLUDING ALL CONTENT, FEATURES, AND VIRTUAL ITEMS THEREIN, ARE PROVIDED "AS IS" AND "AS AVAILABLE," WITH ALL FAULTS AND WITHOUT ANY WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED. TO THE FULLEST EXTENT PERMISSIBLE PURSUANT TO APPLICABLE LAW, KINETIX STUDIO DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, AND WARRANTIES ARISING FROM COURSE OF DEALING OR USAGE OF TRADE. KINETIX STUDIO DOES NOT WARRANT THAT THE GAMES WILL BE UNINTERRUPTED, ERROR-FREE, SECURE, ACCURATE, COMPLETE, RELIABLE, OR FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS. KINETIX STUDIO DOES NOT WARRANT THAT ANY DEFECTS OR ERRORS WILL BE CORRECTED. YOU ACKNOWLEDGE THAT YOUR USE OF THE GAMES IS AT YOUR SOLE RISK.
+7.2. No Guarantee of Continuous Service: While Kinetix Studio strives to provide consistent and enjoyable access to its Games, we cannot guarantee uninterrupted service. The Games may be temporarily unavailable due to maintenance, technical issues, server overloads, acts of nature, or other events beyond our reasonable control. Kinetix Studio reserves the right to modify, suspend, or discontinue any or all aspects of the Games at any time, with or without notice.
+7.3. Limitation of Liability: TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL KINETIX STUDIO, ITS AFFILIATES, LICENSORS, SERVICE PROVIDERS, EMPLOYEES, AGENTS, OFFICERS, OR DIRECTORS BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO LOSS OF PROFITS, REVENUE, DATA, USE, GOODWILL, OR OTHER INTANGIBLE LOSSES, WHETHER INCURRED DIRECTLY OR INDIRECTLY, ARISING OUT OF OR IN CONNECTION WITH:
+* (A) YOUR ACCESS TO, USE OF, OR INABILITY TO ACCESS OR USE THE GAMES;
+* (B) ANY CONDUCT OR CONTENT OF ANY THIRD PARTY ON THE GAMES, INCLUDING WITHOUT LIMITATION, ANY DEFAMATORY, OFFENSIVE, OR ILLEGAL CONDUCT OF OTHER USERS OR THIRD PARTIES;
+* (C) ANY CONTENT OBTAINED FROM THE GAMES;
+* (D) UNAUTHORIZED ACCESS, USE, OR ALTERATION OF YOUR TRANSMISSIONS OR CONTENT;
+* (E) ANY BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE WHICH MAY BE TRANSMITTED TO OR THROUGH OUR GAMES BY ANY THIRD PARTY;
+* (F) THE LOSS OF YOUR VIRTUAL ITEMS, GAME PROGRESS, OR DATA;
+* (G) THE SUSPENSION OR TERMINATION OF YOUR ACCOUNT OR ACCESS TO THE GAMES.
+THIS LIMITATION APPLIES WHETHER THE ALLEGED LIABILITY IS BASED ON WARRANTY, CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, OR ANY OTHER LEGAL THEORY, EVEN IF KINETIX STUDIO HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE, AND EVEN IF A REMEDY SET FORTH HEREIN IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE.
+8. Indemnification
+You agree to defend, indemnify, and hold harmless Kinetix Studio, its affiliates, licensors, and their respective officers, directors, employees, contractors, agents, and suppliers from and against any and all claims, liabilities, damages, judgments, awards, losses, costs, expenses, or fees (including reasonable attorneys' fees and expert witness fees) arising out of or relating to:
+* (A) Your breach of these Terms or any Roblox Policies;
+* (B) Your use of the Games, including your Virtual Items and UGC;
+* (C) Your violation of any applicable law or regulation;
+* (D) Your violation of the rights of any third party, including intellectual property rights or privacy rights.
+Kinetix Studio reserves the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify us, and you agree to cooperate with our defense of these claims. You agree not to settle any matter without the prior written consent of Kinetix Studio.
+9. Modification of Terms
+9.1. Right to Modify: Kinetix Studio reserves the absolute right, at its sole discretion, to modify, update, or replace these Terms at any time.
+9.2. Notice of Material Changes: In the event of a material revision to these Terms, we will endeavor to provide reasonable notice through various channels, which may include, but are not limited to:
+* In-game announcements or notifications upon logging into a Kinetix Studio Game.
+* Updates to the "Latest Version" or "News" sections within our Games.
+* Posting updated Terms on our official Roblox group page or other designated Kinetix Studio communication channels.
+* Updating the "Effective Date" at the top of these Terms.
+9.3. Acceptance of Revised Terms: Your continued access to or use of any Kinetix Studio Game after any revisions to these Terms become effective constitutes your explicit and binding acceptance of the revised Terms. If you do not agree to the new Terms, you must cease using all Kinetix Studio Games.
+10. Governing Law and Dispute Resolution
+10.1. Governing Law: These Terms and any disputes or claims arising out of or related to these Terms, the Games, or your use thereof, shall be governed by and construed in accordance with the laws of Hungary, without regard to its conflict of law principles.
+10.2. Exclusive Jurisdiction: Any legal suit, action, or proceeding arising out of or related to these Terms or the Games shall be instituted exclusively in the competent courts located in Mezőcsát, Hungary. You hereby waive any and all objections to the exercise of jurisdiction over you by such courts and to venue in such courts.
+10.3. Informal Resolution: Before initiating any formal legal action, you agree to first attempt to resolve any dispute informally by contacting Kinetix Studio support. We will endeavor to resolve the dispute in good faith through communication.
 11. Termination
-11.1. Our Right to Terminate: We may terminate or suspend your access to the Game immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach these Terms, the Roblox Terms of Use, or the Roblox Community Standards.
-11.2. Effect of Termination: Upon termination, your right to use the Game will immediately cease. If you wish to terminate your account's association with our Game, you may simply cease using the Game.
-11.3. Survival: All provisions of these Terms which by their nature should survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity, and limitations of liability, shall survive termination.
-12. Governing Law and Dispute Resolution
-12.1. Governing Law: These Terms shall be governed by and construed in accordance with the laws of [Your Jurisdiction, e.g., the State of California, without regard to its conflict of law provisions].
-12.2. Dispute Resolution: Any dispute, controversy, or claim arising out of or relating to these Terms or the breach, termination, or validity thereof shall be submitted to the exclusive jurisdiction of the courts located in [Specify City/County and State/Country of your jurisdiction, e.g., Los Angeles, California]. You hereby consent to the personal jurisdiction of such courts and waive any objection as to inconvenient forum.
-13. General Provisions
-13.1. Entire Agreement: These Terms constitute the entire agreement between you and [Your Studio/Developer Name] concerning your use of the Game and supersede all prior or contemporaneous understandings and agreements, whether written or oral, regarding such subject matter.
-13.2. Severability: If any provision of these Terms is held to be invalid or unenforceable by a court of competent jurisdiction, such provision shall be eliminated or limited to the minimum extent necessary, and the remaining provisions of these Terms will remain in full force and effect.
-13.3. Waiver: No waiver of any term or condition set forth in these Terms shall be deemed a further or continuing waiver of such term or condition or any other term or condition, and any failure by us to assert a right or provision under these Terms shall not constitute a waiver of such right or provision.
-13.4. Assignment: You may not assign or transfer your rights or obligations under these Terms without our prior written consent. We may assign our rights and obligations under these Terms without restriction.
-13.5. Headings: The headings in these Terms are for convenience only and shall not affect their interpretation.
-14. Contact Information
-If you have any questions about these Terms, please contact us through:
- * [Your Official Roblox Group Page Link]
- * [Your Official Twitter/Discord/Other Social Media Link for Support]
- * [An Email Address, if you wish to provide one for support inquiries]
+11.1. Termination by Kinetix Studio: Kinetix Studio reserves the right to suspend, terminate, or restrict your access to any or all of the Games, or specific features within the Games, immediately and without prior notice or liability, for any reason whatsoever, including but not limited to:
+* If you breach these Terms or any Roblox Policies.
+* If Kinetix Studio ceases operations or discontinues a Game.
+* For any conduct that Kinetix Studio, in its sole discretion, deems harmful to other users, Kinetix Studio, or Roblox.
+11.2. Effect of Termination: Upon termination, your right to use the Games will immediately cease. All provisions of these Terms which by their nature should survive termination, including, without limitation, intellectual property, disclaimers, limitation of liability, indemnification, and governing law, shall survive termination.
+12. Miscellaneous
+12.1. Entire Agreement: These Terms, together with the Roblox Policies and any applicable Supplemental Terms, constitute the entire and exclusive agreement between you and Kinetix Studio regarding your use of the Games, superseding any prior agreements, communications, or understandings (whether oral or written).
+12.2. Severability: If any provision of these Terms is found by a court of competent jurisdiction to be invalid, illegal, or unenforceable for any reason, such provision shall be eliminated or limited to the minimum extent necessary, and the remaining provisions of these Terms will continue in full force and effect.
+12.3. Waiver: No waiver by Kinetix Studio of any term or condition set forth in these Terms shall be deemed a further or continuing waiver of such term or condition or a waiver of any other term or condition, and Kinetix Studio's failure to assert a right or provision under these Terms shall not constitute a waiver of such right or provision.
+12.4. Assignment: You may not assign or transfer these Terms or any of your rights or obligations hereunder without the prior written consent of Kinetix Studio. Kinetix Studio may assign these Terms, in whole or in part, at any time without notice to you.
+12.5. Headings: The headings in these Terms are for convenience only and shall not affect their interpretation.
+By continuing to use any Kinetix Studio Game, you acknowledge that you have read, understood, and agree to these comprehensive Terms of Service.
