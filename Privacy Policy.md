@@ -6,6 +6,7 @@ Kinetix Studio ("Kinetix," "we," "us," or "our") respects your privacy and is co
 
 By accessing or using any Kinetix Studio Game, you acknowledge that you have read, understood, and agree to the terms of this Privacy Policy. If you do not agree with our policies and practices, your choice is not to use our Games. This Privacy Policy is incorporated by reference into our Terms of Service.
 1. Introduction and Scope of this Policy
+
 Kinetix Studio operates primarily within the Roblox platform. As such, Roblox Corporation acts as the primary data controller for a significant portion of the data collected from players within their ecosystem. Our collection and processing of data are subject to, and often integrated with, Roblox's own data practices. This policy focuses on the data we, Kinetix Studio, may directly or indirectly collect or process through your interaction with our specific Games, beyond what Roblox collects for its platform operations.
 This Privacy Policy applies to information we collect:
  * When you play or interact with any Kinetix Studio Game on the Roblox platform.
@@ -15,6 +16,7 @@ This policy does not apply to:
  * Information collected by Roblox Corporation directly for their platform services. Please refer to the Roblox Privacy Policy for details on their data practices.
  * Information collected by any third-party website or service that you may access through the Games (e.g., links to external websites), unless explicitly stated otherwise. We encourage you to review the privacy policies of those third parties.
 2. Information We Collect and How We Collect It
+
 The type of information we collect largely depends on your interaction with our Games and the functionalities we implement. Because we operate within Roblox, direct collection of personally identifiable information (PII) is limited.
 2.1. Information Provided Directly by You
 While playing our Games, you may provide information directly to us through in-game interactions:
@@ -39,6 +41,7 @@ When you access and play our Games, certain information is collected automatical
  * Roblox Platform Data: We receive certain data about your Roblox account and in-game activities through Roblox's developer tools and APIs. This primarily includes your UserID, purchase history within our Games, and potentially aggregated player statistics. This information is provided to us by Roblox in accordance with their terms.
  * Third-Party Analytics Providers (via Roblox): If we integrate third-party analytics services that are compliant with Roblox's policies, they may collect data directly from the Games environment, which we then access in an aggregated or anonymized form.
 3. How We Use the Information We Collect
+
 We use the information we collect for various purposes, primarily to operate, maintain, and improve our Games and user experience:
  * To Operate and Maintain Our Games:
    * Enabling core gameplay functionalities and features.
@@ -66,6 +69,7 @@ We use the information we collect for various purposes, primarily to operate, ma
    * Fulfilling any legal or regulatory requirements applicable to Kinetix Studio or our Games.
    * Responding to lawful requests from public authorities.
 4. How We Share Information
+
 We do not sell your personal data. We may share information with certain third parties or under specific circumstances as described below:
  * With Roblox Corporation: As our Games operate on the Roblox platform, a significant amount of data is shared inherently with Roblox, or collected directly by Roblox. This includes your Roblox UserID, in-game actions, purchases, and communications. Roblox processes this data according to its own Privacy Policy. We may also share information with Roblox for moderation purposes or in response to their inquiries regarding policy violations.
  * With Service Providers: We may employ third-party companies and individuals to facilitate our Games or provide services on our behalf (e.g., analytics services compatible with Roblox's platform). These third parties have access to your information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. We ensure that any service providers comply with data protection standards.
@@ -74,6 +78,7 @@ We do not sell your personal data. We may share information with certain third p
  * With Your Consent: We may share your information for any other purpose with your explicit consent or direction.
  * Aggregated or Anonymized Data: We may share aggregated or anonymized information that cannot reasonably be used to identify you with third parties for various purposes, including business analysis, research, or marketing.
 5. Data Retention
+
 We retain information collected from or about you for as long as necessary to fulfill the purposes for which it was collected, including for the purposes of satisfying any legal, accounting, or reporting requirements. The retention period for different types of data varies:
  * In-Game Progress and Virtual Item Ownership: This data is typically retained indefinitely as it is crucial for your continuous gameplay and account experience.
  * Chat Logs and Support Communications: Retained for a period necessary for moderation, dispute resolution, and historical support reference, typically a few months to several years depending on the nature of the communication and any ongoing issues.
@@ -81,15 +86,18 @@ We retain information collected from or about you for as long as necessary to fu
  * Error and Crash Logs: Retained for debugging and performance improvement for a limited period, typically a few weeks to months.
 Upon expiration of the retention period, or when no longer needed, we will delete or anonymize your information in accordance with applicable laws and our internal data retention policies.
 6. Data Security
+
 We implement reasonable technical and organizational measures designed to protect your information from accidental loss, unauthorized access, use, alteration, and disclosure. However, please be aware that no method of transmission over the internet or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your information, we cannot guarantee its absolute security.
  * Within Roblox: We rely heavily on Roblox's robust security infrastructure and practices to protect data processed within their platform.
  * Our Internal Practices: We limit access to data within Kinetix Studio to authorized personnel who need it to perform their job functions (e.g., game developers, community managers, moderation staff). We utilize secure development practices for our in-game systems and ensure any external tools we use are reputable and adhere to security standards.
 7. Children's Privacy
+
 Kinetix Studio Games are designed for the Roblox platform, which has its own robust children's privacy measures in place, including compliance with the Children's Online Privacy Protection Act (COPPA) in the United States and similar regulations globally.
  * Roblox's Role: Roblox acts as the primary data controller for child users, and its platform is designed to limit the collection of personal information from children under 13, and to obtain parental consent where required.
  * Our Commitment: Kinetix Studio does not knowingly collect directly identifiable personal information from children under 13 within our Games beyond the Roblox UserID. Any in-game chat or user-generated content from children is subject to Roblox's strict moderation policies, and we reinforce these policies within our Games.
  * Parental Rights: If a parent or guardian believes that Kinetix Studio has inadvertently collected personal information from a child under the age of 13 beyond what is permitted by Roblox's platform policies, please contact us immediately using the details provided below, and we will take reasonable steps to remove such information.
 8. Your Data Protection Rights
+
 Depending on your jurisdiction and applicable data protection laws (such as GDPR for users in the European Economic Area (EEA), UK GDPR for users in the UK, or CCPA/CPRA for users in California), you may have certain rights regarding your personal data. Please note that since Kinetix Studio operates within the Roblox platform, many of these rights related to your core account data should be exercised directly through Roblox.
 Where Kinetix Studio is the direct controller of specific data points (e.g., direct support communications sent outside of Roblox's primary chat system), your rights may include:
  * Right to Access: The right to request access to the personal data we hold about you.
@@ -102,9 +110,11 @@ Where Kinetix Studio is the direct controller of specific data points (e.g., dir
  * Right to Lodge a Complaint: The right to lodge a complaint with a supervisory authority if you believe your data protection rights have been violated.
 To exercise any of these rights, especially those related to your Roblox account, you should primarily consult the Roblox Privacy Policy and utilize their provided tools and contact methods. For data specifically collected and controlled by Kinetix Studio as described in Section 2.1 (e.g., direct support emails), please contact us using the information below. We will assess your request in accordance with applicable data protection laws.
 9. International Data Transfers
+
 As Kinetix Studio is based in Hungary, and Roblox operates globally, your data may be transferred to and processed in countries outside of your country of residence, including to the United States where Roblox Corporation is headquartered. These countries may have data protection laws different from those in your jurisdiction.
 When transferring your data internationally, we rely on appropriate safeguards recognized by relevant legal frameworks, such as standard contractual clauses, or we ensure the recipient is certified under an approved data transfer mechanism, or otherwise complies with adequate data protection measures. By using our Games, you consent to such transfers.
 10. Changes to This Privacy Policy
+
 Kinetix Studio reserves the right to update or modify this Privacy Policy at any time to reflect changes in our data practices, technology, legal requirements, or the Roblox platform.
 We will notify you of any material changes by:
  * Updating the "Effective Date" at the top of this Privacy Policy.
@@ -112,6 +122,7 @@ We will notify you of any material changes by:
  * Providing in-game announcements or notifications for significant changes.
 We encourage you to review this Privacy Policy periodically to stay informed about our information practices. Your continued use of any Kinetix Studio Game after any modifications to this Privacy Policy constitutes your acceptance of those changes.
 11. Contact Information
+
 If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us through the following official channels:
 Kinetix Studio
 Email: privacy@kinetixstudio.com (Please note: this is an example email address; replace with your actual support email)
