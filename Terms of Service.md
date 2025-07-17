@@ -86,4 +86,5 @@ Kinetix Studio reserves the right, at your expense, to assume the exclusive defe
 12.3. Waiver: No waiver by Kinetix Studio of any term or condition set forth in these Terms shall be deemed a further or continuing waiver of such term or condition or a waiver of any other term or condition, and Kinetix Studio's failure to assert a right or provision under these Terms shall not constitute a waiver of such right or provision.
 12.4. Assignment: You may not assign or transfer these Terms or any of your rights or obligations hereunder without the prior written consent of Kinetix Studio. Kinetix Studio may assign these Terms, in whole or in part, at any time without notice to you.
 12.5. Headings: The headings in these Terms are for convenience only and shall not affect their interpretation.
+
 By continuing to use any Kinetix Studio Game, you acknowledge that you have read, understood, and agree to these comprehensive Terms of Service.
