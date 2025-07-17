@@ -3,6 +3,7 @@
 ## Effective Date: July 17, 2025
 
 Kinetix Studio ("Kinetix," "we," "us," or "our") respects your privacy and is committed to protecting your personal data. This Privacy Policy outlines how we collect, use, store, share, and protect information in connection with your use of our games on the Roblox platform, including "Hunt the Signal" and any other games developed and published by Kinetix Studio (collectively, the "Games").
+
 By accessing or using any Kinetix Studio Game, you acknowledge that you have read, understood, and agree to the terms of this Privacy Policy. If you do not agree with our policies and practices, your choice is not to use our Games. This Privacy Policy is incorporated by reference into our Terms of Service.
 1. Introduction and Scope of this Policy
 Kinetix Studio operates primarily within the Roblox platform. As such, Roblox Corporation acts as the primary data controller for a significant portion of the data collected from players within their ecosystem. Our collection and processing of data are subject to, and often integrated with, Roblox's own data practices. This policy focuses on the data we, Kinetix Studio, may directly or indirectly collect or process through your interaction with our specific Games, beyond what Roblox collects for its platform operations.
