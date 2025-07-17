@@ -116,6 +116,7 @@ If you have any questions, concerns, or requests regarding this Privacy Policy o
 Kinetix Studio
 Email: privacy@kinetixstudio.com (Please note: this is an example email address; replace with your actual support email)
 Roblox Group Page: https://www.roblox.com/share/g/33870482
+
 When contacting us, please include your Roblox UserID and clearly state the nature of your inquiry to help us process your request efficiently.
 
 By continuing to use any Kinetix Studio Game, you signify your acceptance of this Privacy Policy.
