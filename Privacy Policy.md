@@ -19,13 +19,13 @@ This policy does not apply to:
 
 The type of information we collect largely depends on your interaction with our Games and the functionalities we implement. Because we operate within Roblox, direct collection of personally identifiable information (PII) is limited.
 
-### 2.1. Information Provided Directly by You
+#### 2.1. Information Provided Directly by You
 While playing our Games, you may provide information directly to us through in-game interactions:
  * In-Game Communications: Content of your chat messages, public or private, within our Games. This includes text, emojis, and any data conveyed through Roblox's chat system.
  * Feedback and Support Communications: If you submit bug reports, suggestions, appeals, or other inquiries to us via in-game forms, direct messages on Roblox, or any designated Kinetix Studio support channels (e.g., official Discord server, if applicable). This may include your Roblox username, the content of your message, and any attached screenshots or logs.
  * Voluntary Participation Data: Information you provide if you choose to participate in optional in-game surveys, contests, or events specific to our Games. This could include preferences, opinions, or specific identifiers you choose to share for prize distribution (e.g., a specific Roblox User ID).
 
-### 2.2. Information Collected Automatically Through Game Play
+#### 2.2. Information Collected Automatically Through Game Play
 When you access and play our Games, certain information is collected automatically through Roblox's API and our in-game systems. While much of this is handled by Roblox, we may access or process aggregated or anonymized versions of this data, or specific elements directly relevant to game mechanics:
  * Roblox User ID (UserID): Your unique identifier assigned by Roblox. This is fundamental for tracking in-game progress, purchases, and linking your actions to your Roblox account. We do NOT collect your Roblox username directly, only the UserID, which Roblox links to your username.
  * In-Game Progress and Activity Data: Information about your gameplay, including:
@@ -40,7 +40,7 @@ When you access and play our Games, certain information is collected automatical
  * Error and Crash Data: Reports related to game crashes, bugs, and errors encountered during gameplay. This information helps us identify and fix technical issues.
  * IP Address (Indirect): We do not directly collect or store your IP address. However, Roblox does, and certain aggregated or anonymized analytics data we receive may be derived from geographical information associated with IP addresses at Roblox's level.
 
-### 2.3. Information from Third Parties
+#### 2.3. Information from Third Parties
  * Roblox Platform Data: We receive certain data about your Roblox account and in-game activities through Roblox's developer tools and APIs. This primarily includes your UserID, purchase history within our Games, and potentially aggregated player statistics. This information is provided to us by Roblox in accordance with their terms.
  * Third-Party Analytics Providers (via Roblox): If we integrate third-party analytics services that are compliant with Roblox's policies, they may collect data directly from the Games environment, which we then access in an aggregated or anonymized form.
 ### 3. How We Use the Information We Collect
@@ -116,7 +116,7 @@ To exercise any of these rights, especially those related to your Roblox account
 
 As Kinetix Studio is based in Hungary, and Roblox operates globally, your data may be transferred to and processed in countries outside of your country of residence, including to the United States where Roblox Corporation is headquartered. These countries may have data protection laws different from those in your jurisdiction.
 When transferring your data internationally, we rely on appropriate safeguards recognized by relevant legal frameworks, such as standard contractual clauses, or we ensure the recipient is certified under an approved data transfer mechanism, or otherwise complies with adequate data protection measures. By using our Games, you consent to such transfers.
-#### 10. Changes to This Privacy Policy
+### 10. Changes to This Privacy Policy
 
 Kinetix Studio reserves the right to update or modify this Privacy Policy at any time to reflect changes in our data practices, technology, legal requirements, or the Roblox platform.
 We will notify you of any material changes by:
@@ -124,7 +124,7 @@ We will notify you of any material changes by:
  * Posting the revised policy within our Games, on our official Roblox group page, or other designated Kinetix Studio communication channels.
  * Providing in-game announcements or notifications for significant changes.
 We encourage you to review this Privacy Policy periodically to stay informed about our information practices. Your continued use of any Kinetix Studio Game after any modifications to this Privacy Policy constitutes your acceptance of those changes.
-#### 11. Contact Information
+### 11. Contact Information
 
 If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us through the following official channels:
 Kinetix Studio
