@@ -6,7 +6,8 @@ Kinetix Studio ("Kinetix," "we," "us," or "our") is pleased to provide you with 
 
 ### 1. Acceptance of Terms
 
-#### 1.1. Binding Agreement: By playing, interacting with, creating an account within (if applicable), or otherwise accessing any of our Games, you confirm that you have read, understood, and unequivocally agree to be bound by these Terms. Your continued use of any Kinetix Studio Game, or any of its features, after the Effective Date or any subsequent revisions, constitutes your ongoing and unequivocal acceptance of these Terms and any future modifications or revisions.
+#### 1.1. Binding Agreement:
+By playing, interacting with, creating an account within (if applicable), or otherwise accessing any of our Games, you confirm that you have read, understood, and unequivocally agree to be bound by these Terms. Your continued use of any Kinetix Studio Game, or any of its features, after the Effective Date or any subsequent revisions, constitutes your ongoing and unequivocal acceptance of these Terms and any future modifications or revisions.
 
 #### 1.2. Eligibility and Age Restrictions: The Games are available to users in accordance with Roblox Corporation's age requirements. If you are a minor (under the age of majority in your jurisdiction, typically 18 years old), you represent and warrant that your parent or legal guardian has thoroughly reviewed and explicitly agreed to these Terms on your behalf and has provided you with explicit permission to access and use the Games. Kinetix Studio reserves the right to request proof of age or parental consent at any time and may suspend or terminate access to the Games if such proof is not provided or is deemed insufficient.
 
