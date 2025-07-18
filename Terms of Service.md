@@ -141,7 +141,7 @@ Your continued access to or use of any Kinetix Studio Game after any revisions t
 These Terms and any disputes or claims arising out of or related to these Terms, the Games, or your use thereof, shall be governed by and construed in accordance with the laws of Hungary, without regard to its conflict of law principles.
 
 #### 10.2. Exclusive Jurisdiction:
-Any legal suit, action, or proceeding arising out of or related to these Terms or the Games shall be instituted exclusively in the competent courts located in Mezőcsát, Hungary. You hereby waive any and all objections to the exercise of jurisdiction over you by such courts and to venue in such courts.
+Any legal suit, action, or proceeding arising out of or related to these Terms or the Games shall be instituted exclusively in the competent courts located in Mezőkövesd, Hungary. You hereby waive any and all objections to the exercise of jurisdiction over you by such courts and to venue in such courts.
 
 #### 10.3. Informal Resolution:
 Before initiating any formal legal action, you agree to first attempt to resolve any dispute informally by contacting Kinetix Studio support. We will endeavor to resolve the dispute in good faith through communication.
