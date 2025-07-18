@@ -2,7 +2,9 @@
 
 ## Effective Date: July 17, 2025
 
-Kinetix Studio ("Kinetix," "we," "us," or "our") is pleased to provide you with access to our games on the Roblox platform, including "Hunt the Signal" and any other games developed and published by Kinetix Studio (collectively, the "Games"). These Terms of Service ("Terms") govern your access to and use of all Kinetix Studio Games. By accessing or using any of our Games, you agree to be bound by these Terms and any additional terms and policies referenced herein or provided by Roblox Corporation, including but not limited to the Roblox Terms of Use, Roblox Community Standards, and Roblox Privacy Policy (collectively, "Roblox Policies"). If you do not agree to these Terms, you may not access or use any Kinetix Studio Game.
+Kinetix Studio ("Kinetix," "we," "us," or "our") is pleased to provide you with access to our games on the Roblox platform, including "Hunt the Signal" and any other games developed and published by Kinetix Studio (collectively, the "Games"). These Terms of Service ("Terms") govern your access to and use of all Kinetix Studio Games.
+
+By accessing or using any of our Games, you agree to be bound by these Terms and any additional terms and policies referenced herein or provided by Roblox Corporation, including but not limited to the Roblox Terms of Use, Roblox Community Standards, and Roblox Privacy Policy (collectively, "Roblox Policies"). If you do not agree to these Terms, you may not access or use any Kinetix Studio Game.
 
 ### 1. Acceptance of Terms
 
