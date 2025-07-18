@@ -174,4 +174,4 @@ You may not assign or transfer these Terms or any of your rights or obligations 
 #### 12.5. Headings:
 The headings in these Terms are for convenience only and shall not affect their interpretation.
 
-By continuing to use any Kinetix Studio Game, you acknowledge that you have read, understood, and agree to these comprehensive Terms of Service.
+### By continuing to use any Kinetix Studio Game, you acknowledge that you have read, understood, and agree to these comprehensive Terms of Service.
